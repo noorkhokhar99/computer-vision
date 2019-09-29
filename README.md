@@ -11,6 +11,7 @@ Computer vision is among the hottest fields in any industry right now. It is thr
 
 
 Table of Contents
+
 1-What is Computer Vision?
 2-Why use OpenCV for Computer Vision Tasks?
 3-Reading, Writing and Displaying Images
